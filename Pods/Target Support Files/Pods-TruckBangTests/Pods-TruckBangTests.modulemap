@@ -1,0 +1,6 @@
+framework module Pods_TruckBangTests {
+  umbrella header "Pods-TruckBangTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
